@@ -1,0 +1,8 @@
+clustering.components
+clustering.components.controllers
+clustering.components.services
+clustering.core.data
+clustering.core.database
+clustering.core.keyboardinput
+clustering.core.mining
+clustering.core.server

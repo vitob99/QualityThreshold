@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"clustering.components"},{"l":"clustering.components.controllers"},{"l":"clustering.components.services"},{"l":"clustering.core.data"},{"l":"clustering.core.database"},{"l":"clustering.core.keyboardinput"},{"l":"clustering.core.mining"},{"l":"clustering.core.server"}];updateSearchResults();

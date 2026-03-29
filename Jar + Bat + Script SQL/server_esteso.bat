@@ -1,0 +1,1 @@
+java -jar QT_Server_Esteso.jar
