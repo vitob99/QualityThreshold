@@ -17,7 +17,7 @@ Il Quality Threshold (QT) è un algoritmo di clustering che non richiede di spec
 
 ## 🏗️ Architettura
 
-Il sistema è strutturato in due layer principali:
+Il sistema è strutturato in tre layer principali:
 
 ```
 ┌──────────────────────────────────────────┐
@@ -44,6 +44,23 @@ Il sistema è strutturato in due layer principali:
 │  - Salvataggio risultati clustering      │
 └──────────────────────────────────────────┘
 ```
+
+### Diagrammi UML
+
+<table>
+  <tr>
+    <th align="center">Client</th>
+    <th align="center">Server</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="221" alt="UML_Client" src="https://github.com/user-attachments/assets/257790a5-88be-4fad-ac05-48a450ca0b87" />
+    </td>
+    <td align="center">
+      <img width="600" alt="UML_Server" src="https://github.com/user-attachments/assets/d009a8d9-3d75-4bea-b750-59d8699fac04" />
+    </td>
+  </tr>
+</table>
 
 ---
 
