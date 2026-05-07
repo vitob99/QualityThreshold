@@ -143,7 +143,9 @@ QualityThreshold/
 | Swagger UI | Documentazione interattiva REST (disponibile a runtime) |
 
 ---
+
 ⚠️ Nota: Le variabili di configurazione (connection string, credenziali DB) sono attualmente hardcoded per semplicità didattica. In un contesto production andrebbero gestite tramite variabili d'ambiente o un file .env escluso dal versioning.
+
 ---
 
 ## 👤 Autore
